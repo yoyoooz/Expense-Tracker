@@ -3,7 +3,7 @@
 A simple and responsive **Expense Tracker App** built with **HTML, CSS, and JavaScript**.  
 Track your income and expenses, view your balance in real time, and manage your personal finances easily.
 
-🌐 Live Demo: [View here](https://yoyoooz.github.io/ToDo-App/)
+🌐 Live Demo: [View here]https://yoyoooz.github.io/Expense-Tracker/)
 
 ---
 
